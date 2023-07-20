@@ -2,4 +2,4 @@
 Mechanical engineer
 Cyber Security Engineer
 Course Completed in Great Learning
-Still Waiting fo Job in PenTester
+Still Waiting for a Job in PenTester
